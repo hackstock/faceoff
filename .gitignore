@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# OSX DS_Store
+.DS_Store
+
+# Faces databse directory
+/faces 
+
+# Pre-trained network weights file
+*.h5
